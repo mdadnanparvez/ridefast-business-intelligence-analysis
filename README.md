@@ -234,32 +234,6 @@ Northgate consistently underperforms compared to other operational regions.
 
 ---
 
-## Project Structure
-
-```text
-ridefast-business-intelligence-analysis/
-│
-├── data/
-│   ├── rides.csv
-│   ├── users.csv
-│   ├── drivers.csv
-│   └── support_tickets.csv
-│
-├── notebooks/
-│   └── RideFast_EDA.ipynb
-│
-├── dashboard/
-│   └── RideFast_Dashboard.twbx
-│
-├── reports/
-│   └── RideFast_BI_Case_Study.pdf
-│
-├── Dashboard.png
-│
-└── README.md
-```
-
----
 
 ## Results
 
@@ -285,13 +259,6 @@ The Tableau dashboard enables stakeholders to explore operational metrics, custo
 
 ---
 
-## Repository
-
-GitHub Repository:
-
-https://github.com/mdadnanparvez/ridefast-business-intelligence-analysis
-
----
 
 ## Author
 
